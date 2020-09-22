@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Header from "../Header/index";
+import Header from "../../Components/Header/index";
 
 export default class Home extends Component {
   render() {
